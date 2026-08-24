@@ -2,11 +2,11 @@
 
 This repository contains work completed for CS 405 Secure Coding.
 
-## Project One
+## CS405 Project One
 Green Pace Security Policy covering secure coding standards, risk assessment,
 automation, encryption, and access control.
 
-## Project Two
+## CS405 Project Two
 Presentation of the Green Pace security policy, including coding standards,
 unit testing, automation, risks, and recommendations.
 
