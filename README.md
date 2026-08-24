@@ -1,0 +1,17 @@
+# CS 405 Secure Coding Portfolio
+
+This repository contains work completed for CS 405 Secure Coding.
+
+## Project One
+Green Pace Security Policy covering secure coding standards, risk assessment,
+automation, encryption, and access control.
+
+## Project Two
+Presentation of the Green Pace security policy, including coding standards,
+unit testing, automation, risks, and recommendations.
+
+## Coding Files
+Source code and exercises completed throughout the course.
+
+## Portfolio Reflection
+Final reflection on secure coding standards, risk, zero trust, and security policies.
